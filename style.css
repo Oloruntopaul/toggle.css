@@ -1,0 +1,40 @@
+*
+{
+
+text-align: center;
+}
+
+
+#my-web
+{
+    background-color: #aa80f3;
+    border: solid black;
+    text-align: center;
+    border-color: black;
+    font-weight: bold;
+    color: azure;
+    
+}
+
+#toggle
+{
+    
+    text-align: center;
+    background-color: #aa80f3;
+    border: 5px solid whitesmoke;
+    padding: 5px 10px;
+
+    
+    
+
+    
+}
+
+#web3
+{
+    background-color: #aa80f3;
+    border: 2px solid black;
+    
+    
+    
+}
